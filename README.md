@@ -21,4 +21,5 @@ O objetivo deste projeto é apresentar detalhadamente a utilização da bibliote
  - Adiel Teixeira de Almeida Filho
 
 ## Referências 📚
-<a href='https://www.sciencedirect.com/science/article/abs/pii/S0957417417306619' target=_blank>A fuzzy hybrid integrated framework for portfolio optimization in private banking</a>
+- <a href='https://www.sciencedirect.com/science/article/abs/pii/S0957417417306619' target=_blank>A fuzzy hybrid integrated framework for portfolio optimization in private banking</a>
+- <a href='https://www.youtube.com/watch?v=cqpMZH9-4fU&ab_channel=LuizCesarCarpinetti' target=_blank>Sistemas de Apoio à Decisão: Vídeo aula 8 - Fuzzy TOPSIS Class</a>
