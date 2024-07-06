@@ -1,4 +1,4 @@
-<h1 align="center"> Sistemas de Apoio a Decisão (IF983) </h1>
+<h1 align="center"> Sistemas de Apoio à Decisão (IF983) </h1>
 
 ## FTOPSIS-Class :memo:🖊️
 A biblioteca FTOPSIS-Class é uma implementação do algoritmo FTOPSIS (Fuzzy Technique for Order Preference by Similarity to Ideal Solution). Este algoritmo é usado para análise de decisão multicritério com dados fuzzy, ou seja, quando os valores dos critérios são imprecisos ou incertos. A biblioteca ajuda na normalização, ponderação e cálculo das soluções ideais, além de calcular distâncias e fornecer os resultados em um formato tabular.
