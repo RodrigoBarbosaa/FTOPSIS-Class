@@ -8,7 +8,8 @@ O objetivo deste projeto é apresentar detalhadamente a utilização da bibliote
 
 ## Como rodar :arrow_forward:
 - Instale a biblioteca no seu terminal: "pip install ftopsis-class"
-- ...
+- Clone o repositório na sua máquina
+- Abra o Notebook e veja os resultados
 
 ## Contribuidores 🤓
  - Diogo Nogueira
